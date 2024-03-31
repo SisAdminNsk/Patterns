@@ -1,0 +1,14 @@
+C:\Users\vvrak\source\repos\Prototype&Factory\Prototype&Factory\bin\Debug\net8.0\Prototype&Factory.exe
+C:\Users\vvrak\source\repos\Prototype&Factory\Prototype&Factory\bin\Debug\net8.0\Prototype&Factory.deps.json
+C:\Users\vvrak\source\repos\Prototype&Factory\Prototype&Factory\bin\Debug\net8.0\Prototype&Factory.runtimeconfig.json
+C:\Users\vvrak\source\repos\Prototype&Factory\Prototype&Factory\bin\Debug\net8.0\Prototype&Factory.dll
+C:\Users\vvrak\source\repos\Prototype&Factory\Prototype&Factory\bin\Debug\net8.0\Prototype&Factory.pdb
+C:\Users\vvrak\source\repos\Prototype&Factory\Prototype&Factory\obj\Debug\net8.0\Prototype&Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvrak\source\repos\Prototype&Factory\Prototype&Factory\obj\Debug\net8.0\Prototype&Factory.AssemblyInfoInputs.cache
+C:\Users\vvrak\source\repos\Prototype&Factory\Prototype&Factory\obj\Debug\net8.0\Prototype&Factory.AssemblyInfo.cs
+C:\Users\vvrak\source\repos\Prototype&Factory\Prototype&Factory\obj\Debug\net8.0\Prototype&Factory.csproj.CoreCompileInputs.cache
+C:\Users\vvrak\source\repos\Prototype&Factory\Prototype&Factory\obj\Debug\net8.0\Prototype&Factory.dll
+C:\Users\vvrak\source\repos\Prototype&Factory\Prototype&Factory\obj\Debug\net8.0\refint\Prototype&Factory.dll
+C:\Users\vvrak\source\repos\Prototype&Factory\Prototype&Factory\obj\Debug\net8.0\Prototype&Factory.pdb
+C:\Users\vvrak\source\repos\Prototype&Factory\Prototype&Factory\obj\Debug\net8.0\Prototype&Factory.genruntimeconfig.cache
+C:\Users\vvrak\source\repos\Prototype&Factory\Prototype&Factory\obj\Debug\net8.0\ref\Prototype&Factory.dll
