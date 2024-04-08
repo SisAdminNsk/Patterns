@@ -1,0 +1,14 @@
+C:\Users\vvrak\source\repos\WorkersBirthdays\WorkersBirthdays\bin\Debug\net8.0\WorkersBirthdays.exe
+C:\Users\vvrak\source\repos\WorkersBirthdays\WorkersBirthdays\bin\Debug\net8.0\WorkersBirthdays.deps.json
+C:\Users\vvrak\source\repos\WorkersBirthdays\WorkersBirthdays\bin\Debug\net8.0\WorkersBirthdays.runtimeconfig.json
+C:\Users\vvrak\source\repos\WorkersBirthdays\WorkersBirthdays\bin\Debug\net8.0\WorkersBirthdays.dll
+C:\Users\vvrak\source\repos\WorkersBirthdays\WorkersBirthdays\bin\Debug\net8.0\WorkersBirthdays.pdb
+C:\Users\vvrak\source\repos\WorkersBirthdays\WorkersBirthdays\obj\Debug\net8.0\WorkersBirthdays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvrak\source\repos\WorkersBirthdays\WorkersBirthdays\obj\Debug\net8.0\WorkersBirthdays.AssemblyInfoInputs.cache
+C:\Users\vvrak\source\repos\WorkersBirthdays\WorkersBirthdays\obj\Debug\net8.0\WorkersBirthdays.AssemblyInfo.cs
+C:\Users\vvrak\source\repos\WorkersBirthdays\WorkersBirthdays\obj\Debug\net8.0\WorkersBirthdays.csproj.CoreCompileInputs.cache
+C:\Users\vvrak\source\repos\WorkersBirthdays\WorkersBirthdays\obj\Debug\net8.0\WorkersBirthdays.dll
+C:\Users\vvrak\source\repos\WorkersBirthdays\WorkersBirthdays\obj\Debug\net8.0\refint\WorkersBirthdays.dll
+C:\Users\vvrak\source\repos\WorkersBirthdays\WorkersBirthdays\obj\Debug\net8.0\WorkersBirthdays.pdb
+C:\Users\vvrak\source\repos\WorkersBirthdays\WorkersBirthdays\obj\Debug\net8.0\WorkersBirthdays.genruntimeconfig.cache
+C:\Users\vvrak\source\repos\WorkersBirthdays\WorkersBirthdays\obj\Debug\net8.0\ref\WorkersBirthdays.dll
